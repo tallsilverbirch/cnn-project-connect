@@ -73,5 +73,4 @@ python draw.py
 - **Classifier**: Global average pooling across the sequence dimension followed by a linear head.
 - **Strength**: Captures global dependencies using self-attention mechanisms.
 
----
-🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
