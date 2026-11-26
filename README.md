@@ -72,6 +72,9 @@ python draw.py
 - **Components**: Linear embedding, learnable positional encoding, and a Transformer Encoder.
 - **Classifier**: Global average pooling across the sequence dimension followed by a linear head.
 - **Strength**: Captures global dependencies using self-attention mechanisms.
+
 -本地readme 更改测试
+- 测试同步问题，这是远端readme
+
 
 

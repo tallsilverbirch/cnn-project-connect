@@ -113,3 +113,4 @@ def plot_curves():
 
 if __name__ == "__main__":
     plot_curves()
+    print("远端draw改变测试"）
