@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop/
+dist/
+*.egg-info/
+.eggs/
+lib/
+lib64/
+bin/
+include/
+share/
+pyinstaller-workspace/
+
+# PyTorch model weights (optional, but usually ignored if large)
+# *.pth
+# *.pt
+
+# Data directory - Ignore all data files as requested
+data/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Claude Code specific
+.claude/
